@@ -1,19 +1,11 @@
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育1 「IPV6」
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育2 「IPV6」
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育3 「IPV4」
-http://58.41.30.154:8001/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育4 「IPV4」
-http://116.230.56.141:9009/udp/239.45.3.210:51400
+http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",马莎一台——五星超高清
 https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",F1TV国际信号——SKY解说
 https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育——机顶盒采集
 https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",广东体育
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",广东体育（比赛时候打开）
 https://6721.liveplay.now.qq.com/live/6721_d0fd19dc0a5140e578489bb113567f74.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",马莎F1数据+24车载
