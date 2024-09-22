@@ -4,21 +4,5 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育3 
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",马莎一台——五星超高清
-https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",F1TV国际信号——SKY解说
-https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育——机顶盒采集
-https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",广东体育（比赛时候打开）
-https://6721.liveplay.now.qq.com/live/6721_d0fd19dc0a5140e578489bb113567f74.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",马莎F1数据+24车载
-https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",Sky天空体育 @CZCJiaxu个人解说
-https://6721.liveplay.now.qq.com/live/6721_f5d204bf1a1612eab2f1861460d9ed73.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",F1TV @BruceBest
-https://6721.liveplay.now.qq.com/live/6721_6735fe81d88026f5677890bbf0bafd3e.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",备用F1TV-F1Kids儿童频道
-https://6721.liveplay.now.qq.com/live/6721_851118084d80e1553d199162c430d6ae.m3u8
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",备用F1TV2 @窝法的策略员工（
-https://6721.liveplay.now.qq.com/live/6721_c9ba7021e48d110dfa81102a84244e8f.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育4 ipv4
+http://218.1.178.14:4022/rtp/239.45.3.210:5140
