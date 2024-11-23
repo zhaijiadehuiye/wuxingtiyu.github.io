@@ -14,3 +14,5 @@ http://222.65.134.102:10000/udp/239.45.3.210:5140
 http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育8
 https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•天空体育",天空体育
+https://tv.iill.top/beesport/Sky_Sports_F1_Live_TV
