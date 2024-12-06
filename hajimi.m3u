@@ -10,6 +10,6 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?
 http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星ipv6",五星体育5
 https://epg.pw/stream/245d1072476eeab5f81d1de6ad86becda334c7305fcc8ecd462b3a05cca4e7a3.ctv
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星比赛有信号",五星体育有比赛
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•有比赛信号时才有信号",友谊长存
 https://pullhw.zhaoyangyang.cn/live/8744230.m3u8?auth_info=iZ2Pq8k8fOcgVUz5%2B0MKICDdIk92CpidlUeLAOgsE5w%3D.72675064626c584d3068577a576d5375
 
