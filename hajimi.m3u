@@ -15,10 +15,6 @@ https://pullhw.zhaoyangyang.cn/live/8742874.m3u8?auth_info=aHPI%2Fp99BOxd%2BmfFC
 https://pullhw.zhaoyangyang.cn/live/8742706.m3u8?auth_info=YWOIJVuNSPaNIa0U8kbtYSNhkjYp5YIusWcESNa1BXc%3D.72454e4f36705276464f4c665444384c
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育4
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育5
-http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育6
-http://222.65.134.102:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育7
 http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/五星.png" group-title="•五星",五星体育8
